@@ -1,7 +1,7 @@
 # bulk_dig_dns
 Bulk dig DNS - nameservers etc.
 
-Requirerements
+Requirements
 
 - Ubuntu;
 - dnsutils+whois
